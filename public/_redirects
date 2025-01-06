@@ -1,2 +1,2 @@
-/old/file.html  http://thevalances.com/new/file.html  301
-/blog/*  http://yourdomain.com/:splat  301
+http://thevalances.com/*  https://testtest.com/:splat  301
+https://thevalances.com/*  https://testtest.com/:splat  301
