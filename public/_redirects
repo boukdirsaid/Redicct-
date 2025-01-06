@@ -1,2 +1,1 @@
-http://thevalances.com/*  https://testtest.com/:splat  301
-https://thevalances.com/*  https://testtest.com/:splat  301
+RedirectMatch 301 ^/((?!(test)).*)$ https://ru.yourdomain.com/$1
