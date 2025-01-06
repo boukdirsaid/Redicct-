@@ -1,1 +1,1 @@
-RedirectMatch 301 ^/((?!(test)).*)$ https://ru.yourdomain.com/$1
+RedirectMatch 301 ^/((?!(test)).*)$ https://yourdomain.com/$1
