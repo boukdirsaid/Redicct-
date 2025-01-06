@@ -1,3 +1,2 @@
-Redirect 301 /old/file.html http://thevalances.com/new/file.html
-
-RedirectMatch 301 /blog(.*) http://yourdomain.com/$1
+/old/file.html  http://thevalances.com/new/file.html  301
+/blog/*  http://yourdomain.com/:splat  301
